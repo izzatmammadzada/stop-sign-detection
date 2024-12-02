@@ -1,0 +1,6 @@
+torch
+opencv-python
+yolov8
+matplotlib
+scikit-learn
+numpy
